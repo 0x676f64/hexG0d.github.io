@@ -1,4 +1,7 @@
-1. Introduction
-Welcome to AndroidTM App Reverse Engineering 101! This workshop's goal is to give you the foundations to begin reverse engineering Android applications. While this workshop won't teach you the details of Android app development, Android malware analysis, Android vulnerability hunting, etc., I hope to give you all the necessary foundations through this workshop such that you can apply your new Android reversing skills to doing those things.
+<!doctype html>
 
-This workshop will be wholly based on reverse engineering through static analysis, or analyzing and understanding an application by examining its code. I won't be covering dynamic analysis where an analyst runs an application and understands the application by executing it, debugging it, etc. Why? Static analysis tends to be a less approachable skill for people to pick up on their own, so I want to help you do it! (And I really love static analysis)
+<html lang="en" class="no-js">
+    <head>
+        <meta charset="utf-8">
+
+<!-- begin _includes/seo.html--><title>Robot Labs</title>
